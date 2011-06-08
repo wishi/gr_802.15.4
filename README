@@ -38,7 +38,7 @@ To build the examples from the tarball use the normal recipe:
   $ make
   $ make check
 
-If you're building from CVS, you'll need to use this sequence, since
+ If you're building from CVS, you'll need to use this sequence, since
 CVS doesn't contain configure or the generated Makefiles.
 
   $ ./bootstrap
